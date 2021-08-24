@@ -1,0 +1,526 @@
+Location,Site,Date,Method,Visit,Wind.speed,Wind.direction,Temp,Sunshine,Time,Species,Species.1,Common.name,Caste,Number,Forage.plant,Pollen,ID,ITD,Hive.Distance,Hive.Density,Buildings,Impervious,Bee.habitat,Floral.Units,Ex.Nests.BeeHabitat,Rail,Total.Water,Building.Vol,ITD.error
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210526_OPBank_Buff_001,5.353953141,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.500528361
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210526_OPBank_Buff_002,5.114190309,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.177272828
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210526_OPBank_Buff_003,4.4244667,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,5.775580745
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210526_OPBank_Buff_004,4.726675069,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.346392747
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210526_OPBank_Buff_005,4.379786809,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,4.236273619
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,Q,1,Trifolium pratense,N,20210623_OPBank_Buff_001,8.547334274,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.609486192
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_002,4.40443281,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.683784369
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_003,5.266267226,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,2.702151042
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_004,5.256396794,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.52978971
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,M,1,Malva sylvestris,N,20210623_OPBank_Buff_005,4.266996424,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.299774933
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_006,5.281701706,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.548414102
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_008,4.750031612,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.804040157
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_009,5.582679426,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.139947424
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_010,4.738162402,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,4.600988212
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210623_OPBank_Buff_011,4.107443079,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.311420328
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Malva sylvestris,N,20210623_OPBank_Buff_012,5.441987928,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.320351173
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Echium vulgare,Y,20210629_Bank_Buff_001,4.608587202,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,4.730349758
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Achillea millefolium,N,20210629_Bank_Buff_002,5.726769691,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.719792891
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Echium vulgare,Y,20210629_Bank_Buff_003,4.997510081,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.273426352
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,N,20210629_Bank_Buff_004,5.036370968,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,9.767647344
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,20210629_Bank_Buff_006,4.533690326,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,5.614817575
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Echium vulgare,Y,20210629_Bank_Buff_007,6.067713638,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.65833566
+East,Bank,26/05/2021,Transect,1,12,NE,22,S,12:55:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,3,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,2,Eschscholzia californica,N,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,2,Eschscholzia californica,N,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,3,Eschscholzia californica,N,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus terrestris,Buff,Buff tail,W,5,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,7,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Achillea millefolium,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus terrestris,Buff,Buff tail,W,1,Echium vulgare,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,09/07/2021,Transect,4,5,SW,30,C,11:43:00,Bombus terrestris,Buff,Buff tail,W,2,Echium vulgare,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus pascuorum,Ccarder,Common carder,W,1,Achillea millefolium,Y,20210629_Bank_CC_009,3.183838899,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,4.469525602
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus pascuorum,Ccarder,Common carder,W,1,Trifolium pratense,Y,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus pascuorum,Ccarder,Common carder,W,1,Trifolium pratense,N,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Leontodon,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Achillea millefolium,Y,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Coreopsis,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Leontodon,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Apis mellifera,Honey,Honey,W,1,Coreopsis,N,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Apis mellifera,Honey,Honey,W,5,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,09/07/2021,Transect,4,3,SW,30,C,11:43:00,Apis mellifera,Honey,Honey,W,1,Achillea millefolium,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,09/07/2021,Transect,4,3,SW,30,C,11:43:00,Apis mellifera,Honey,Honey,W,2,Eschscholzia californica,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,09/07/2021,Transect,4,3,SW,30,C,11:43:00,Apis mellifera,Honey,Honey,W,1,Malva neglecta,NA,NA,NA,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,NA
+East,Bank,23/06/2021,Transect,2,6,E,33,S,10:04:00,Bombus lapidarius,Red,Red tail,W,1,Eschscholzia californica,N,20210623_OPBank_Red_007,3.251608696,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,3.094562366
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus lapidarius,Red,Red tail,W,1,Trifolium pratense,Y,20210629_Bank_Red_008,4.480004996,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,1.343926468
+East,Bank,29/06/2021,Transect,3,4,N,23,C,13:05:00,Bombus vestalis,Vestal,Vestal cuckoo,NA,1,Eschscholzia californica,Y,20210629_Bank_Vestal_005,4.829849775,480,1,31.19,37.06,19.93,2008,14,3.35,6.61,10,5.794508162
+City,Beech,31/05/2021,Transect,3,4,SW,25,S,15:40:00,Bombus terrestris,Buff,Buff tail,W,1,Thyme,N,20210531_Beech_Buff_001,5.560348767,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,4.038507747
+City,Beech,31/05/2021,Transect,3,4,SW,25,S,15:40:00,Bombus terrestris,Buff,Buff tail,W,1,Thyme,N,20210531_Beech_Buff_002,5.5927142,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,2.275804128
+City,Beech,31/05/2021,Transect,3,4,SW,25,S,15:40:00,Bombus terrestris,Buff,Buff tail,W,1,Thyme,N,20210531_Beech_Buff_003,5.26329532,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,3.004085338
+City,Beech,31/05/2021,Transect,3,4,SW,25,S,15:40:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,Y,20210531_Beech_Buff_004,4.960579135,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,1.282906866
+City,Beech,28/05/2021,Transect,2,0,NA,22,S,09:20:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,28/05/2021,Transect,2,0,NA,22,S,09:20:00,Bombus terrestris,Buff,Buff tail,W,1,Thyme,Y,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Bombus terrestris,Buff,Buff tail,W,23,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Bombus terrestris,Buff,Buff tail,W,1,Philadephus,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,09/06/2021,Transect,5,3,SW,24,S,16:46:00,Bombus terrestris,Buff,Buff tail,W,12,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,09/06/2021,Transect,5,3,SW,24,S,16:46:00,Bombus terrestris,Buff,Buff tail,W,2,Salvia,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Bombus terrestris,Buff,Buff tail,W,2,Scabious,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Bombus pascuorum,Ccarder,Common carder,W,1,Salvia,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Bombus pascuorum,Ccarder,Common carder,W,1,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,19/05/2021,Transect,1,3,SW,22,S,15:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,M,2,Thyme,N,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,19/05/2021,Transect,1,3,SW,22,S,15:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,M,1,Nepeta,N,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,19/05/2021,Transect,1,3,SW,22,S,15:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,5,Nepeta,Y,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,28/05/2021,Transect,2,0,NA,22,S,09:20:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,6,Nepeta,N,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,19/05/2021,Transect,1,3,SW,22,S,15:40:00,Apis mellifera,Honey,Honey,W,4,Thyme,N,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,28/05/2021,Transect,2,0,NA,22,S,09:20:00,Apis mellifera,Honey,Honey,W,1,Geranium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Apis mellifera,Honey,Honey,W,3,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Apis mellifera,Honey,Honey,W,16,Alium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,08/06/2021,Transect,4,1,SW,25,S,16:52:00,Apis mellifera,Honey,Honey,W,7,Salvia,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,09/06/2021,Transect,5,3,SW,24,S,16:46:00,Apis mellifera,Honey,Honey,W,19,Salvia,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,09/06/2021,Transect,5,3,SW,24,S,16:46:00,Apis mellifera,Honey,Honey,W,9,Alium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,09/06/2021,Transect,5,3,SW,24,S,16:46:00,Apis mellifera,Honey,Honey,W,2,Thyme,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Apis mellifera,Honey,Honey,W,5,Veronica spicata,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Apis mellifera,Honey,Honey,W,3,Nepeta,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+City,Beech,01/07/2021,Transect,6,3,SW,22,C,14:27:00,Apis mellifera,Honey,Honey,W,3,Geranium,NA,NA,NA,320,5,55.29,33.38,8.4,2280,6,0.26,0.52,19,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Bombus terrestris,Buff,Buff tail,W,1,Camassia,Y,20210426_BG_Buff_001,4.453229479,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.699347819
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Bombus terrestris,Buff,Buff tail,W,1,Camassia,N,20210426_BG_Buff_002,4.458391304,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,4.203683242
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Bombus terrestris,Buff,Buff tail,W,1,Alkanet,N,20210511_BG_Buff_003,5.600969273,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.822973584
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Bombus terrestris,Buff,Buff tail,W,1,Alkanet,Y,20210511_BG_Buff_004,5.400659505,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.927677311
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,N,20210526_BG_Buff_004,5.027004746,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.914591222
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus terrestris,Buff,Buff tail,W,1,Lamium purpureum,Y,20210526_BG_Buff_005,5.814098361,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.65420181
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum,Y,20210529_Bun_Buff_002,5.527344498,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,6.081667724
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_001,4.419200306,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,5.059892792
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_002,4.823361244,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.852122368
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_003,4.885756853,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.179082593
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_004,3.953216561,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,6.260405157
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_005,5.01395933,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.235961776
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_007,5.620431396,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.886785657
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,Y,20210623_BG_Buff_008,5.709625925,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.16816628
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_009,5.598343949,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.22761716
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_010,6.226002401,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.562327334
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_011,6.517826866,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.511064655
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_012,5.309226497,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.403379194
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_013,5.957588259,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.653161879
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_014,4.392978469,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,4.479573208
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_015,5.386818727,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.181395059
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_016,5.067230309,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.898017545
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_017,5.038552632,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.730311162
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_019,5.130760935,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,5.238864265
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210623_BG_Buff_020,3.563175045,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.86083095
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_001,5.610445059,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,4.002447459
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_002,5.514359879,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.824745958
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_003,6.171869511,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.630349748
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_004,4.850495348,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.836167341
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_005,4.879452949,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.802470382
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_006,4.949104141,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.138391136
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum,Y,20210630_BG_Buff_007,4.94655216,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.286544815
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_008,6.288971587,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.923335884
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_009,5.815941665,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.094227108
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_010,3.887882589,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,5.120018103
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_BG_Buff_011,5.490835634,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.710877495
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Sage,N,20210630_BG_Buff_012,5.756748172,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.15041861
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum,N,20210630_BG_Buff_013,4.84138924,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.078392255
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum,N,20210630_BG_Buff_014,5.367525151,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.366413848
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum,N,20210630_BG_Buff_015,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Bombus terrestris,Buff,Buff tail,Q,1,Camassia,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,11,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,2,Symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,2,Symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,5,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,6,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lythrum salicaria,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,symphytum,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Origanum,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,symphytum,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Bombus pascuorum,Ccarder,Common carder,W,1,Camassia,N,20210426_BG_CC_003,4.190217391,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,4.47271897
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,N,20210511_BG_CC_002,6.595099625,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.390499165
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,N,20210526_BG_CC_001,6.676898263,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.060360357
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,N,20210526_BG_CC_002,3.293554834,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.055150561
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum officinale,N,20210526_BG_CC_003,7.640050403,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.258851908
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum officinale,N,20210526_BG_CC_006,7.181071607,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.339311534
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum officinale,N,20210526_BG_CC_007,7.916087934,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.049621085
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum officinale,Y,20210526_BG_CC_008,3.806836582,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.671718997
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,N,20210526_BG_CC_009,5.493067093,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,5.117611913
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Lavender,N,20210623_BG_CC_006,5.150249252,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.638982095
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum,N,20210630_BG_CC_016,5.254251074,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.087972103
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,3,0,NA,32,S,12:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Lavender,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus pascuorum,Ccarder,Common carder,W,1,symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus pascuorum,Ccarder,Common carder,W,1,symphytum,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus pascuorum,Ccarder,Common carder,W,1,symphytum,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus pascuorum,Ccarder,Common carder,W,1,symphytum,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus pratorum,Early,Early,W,1,Symphytum,N,20210623_BG_Early_018,5.058590378,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,2.719496038
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus pratorum,Early,Early,M,1,Lavender,N,20210623_BG_Early_021,3.829004363,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,1.672268723
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Bombus hortorum,Garden,Garden,W,1,Lamium orvala,Y,20210511_BG_Garden_001,4.548156551,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.507587295
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Anthophora plumipes,Solitary,Hairy footed flower bee,M,1,Camassia,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,2,Alkanet,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,1,Comfrey,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,1,Lamium orvala,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,M,1,Lamium orvala,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Apis mellifera,Honey,Honey,W,4,Camassia,,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/04/2021,Transect,1,3,NE,17,S,12:10:00,Apis mellifera,Honey,Honey,W,10,Camassia,Y,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,11/05/2021,Transect,2,6,SE,22,S,13:40:00,Apis mellifera,Honey,Honey,W,6,Alkanet,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,26/05/2021,Transect,3,2,NE,17,C,11:40:00,Apis mellifera,Honey,Honey,W,1,Symphytum officinale,N,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Apis mellifera,Honey,Honey,W,3,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Apis mellifera,Honey,Honey,W,1,Symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Apis mellifera,Honey,Honey,W,10,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Apis mellifera,Honey,Honey,W,2,Symphytum,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Apis mellifera,Honey,Honey,W,9,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,30/06/2021,Transect,5,4,NW,18,C,10:34:00,Apis mellifera,Honey,Honey,W,5,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Apis mellifera,Honey,Honey,W,58,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Apis mellifera,Honey,Honey,W,62,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+East,BG,08/07/2021,Transect,6,2,SW,30,C,15:11:00,Bombus pascuorum,Ccarder,Red tail,W,1,symphytum,Y,20210529_Bun_CC_001,6.642272998,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,3.847156641
+East,BG,23/06/2021,Transect,4,0,NA,32,S,12:20:00,Bombus lapidarius,Red,Red tail,W,1,Lavender,NA,NA,NA,300,1,21.53,48.93,17.83,6024,13,2.79,6.61,4,NA
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,Y,20210608_Bunhill_Buff_002,4.145547786,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,3.848238389
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,N,20210608_Bunhill_Buff_004,6.636382137,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,7.627822025
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,M,1,Geranium,N,20210608_Bunhill_Buff_005,5.352038252,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,4.822801666
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,N,20210624_Bunhill_CC_002,3.001208054,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,9.835021018
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Luzula nivea,Y,20210624_Bunhill_Tree_001,3.659655582,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,10.69258807
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Bombus terrestris,Buff,Buff tail,W,1,Lamium album,N,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Bombus terrestris,Buff,Buff tail,W,1,Chelidonium majus,Y,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Lamium album,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Chelidonium majus,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,N,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,24/06/2021,Transect,5,0,NA,21,S,10:05:00,Bombus terrestris,Buff,Buff tail,W,2,Campanula,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Bombus pascuorum,Ccarder,Common carder,W,1,Chelidonium majus,N,20210608_Bunhill_Buff_001,5.185008757,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,2.318378974
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Luzula nivea,N,20210608_Bunhill_CC_003,7.510037616,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,3.784979818
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Bombus pascuorum,Ccarder,Common carder,Q,1,NA,N,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Lamium purpureum,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,24/06/2021,Transect,5,0,NA,21,S,10:05:00,Bombus pascuorum,Ccarder,Common carder,W,1,Chelidonium majus,N,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Bombus pascuorum,Ccarder,Common carder,W,2,Rose,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Bombus pascuorum,Ccarder,Common carder,W,1,Chelidonium majus,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Bombus pratorum,Early,Early,W,2,Geranium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,18/05/2021,Transect,2,4,N,18,S,09:07:00,Apis mellifera,Honey,Honey,W,2,Choisya,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Apis mellifera,Honey,Honey,W,2,Geranium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,29/05/2021,Transect,3,4,SW,21,S,11:45:00,Apis mellifera,Honey,Honey,W,4,Choisya,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Apis mellifera,Honey,Honey,W,8,Geranium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Apis mellifera,Honey,Honey,W,2,Chelidonium majus,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,08/06/2021,Transect,4,3,SW,22,S,10:20:00,Apis mellifera,Honey,Honey,W,1,Pyracantha,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,24/06/2021,Transect,5,0,NA,21,S,10:05:00,Apis mellifera,Honey,Honey,W,5,Geranium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,24/06/2021,Transect,5,0,NA,21,S,10:05:00,Apis mellifera,Honey,Honey,W,11,Campanula,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Apis mellifera,Honey,Honey,W,2,Geranium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Apis mellifera,Honey,Honey,W,1,Campanula trachelium,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Apis mellifera,Honey,Honey,W,1,Campanula rapunculoides,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,02/07/2021,Transect,6,0,NA,21,S,10:41:00,Apis mellifera,Honey,Honey,W,1,Papaver,NA,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Bunhill,24/06/2021,Transect,5,0,NA,21,S,10:05:00,Bombus hypnorum,Tree,Tree,W,1,Campanula,N,NA,NA,535,2,45.37,42.5,8.43,1754,6,0.26,0.52,15,NA
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,M,1,Nepeta,NA,20210528_Christ_Buff_001,6.268491953,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,4.439638801
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,M,1,Nepeta,NA,20210528_Christ_Buff_002,7.046111214,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,3.298738537
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210528_Christ_Buff_003,6.384441144,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,2.476550092
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210528_Christ_Buff_004,6.637291302,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,4.863433487
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210528_Christ_Buff_005,5.699751871,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,1.765393674
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,1,Iris germanica,N,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,Y,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Bombus terrestris,Buff,Buff tail,W,2,Nepeta,N,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,08/06/2021,Transect,3,3,SW,24,S,14:06:00,Bombus terrestris,Buff,Buff tail,W,65,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,08/06/2021,Transect,3,3,SW,24,S,14:06:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,09/06/2021,Transect,4,1,SW,25,S,14:23:00,Bombus terrestris,Buff,Buff tail,W,75,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Bombus terrestris,Buff,Buff tail,W,16,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Bombus terrestris,Buff,Buff tail,W,1,Astilbe,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Bombus terrestris,Buff,Buff tail,W,6,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Bombus terrestris,Buff,Buff tail,W,1,Rose,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Bombus terrestris,Buff,Buff tail,W,1,Astilbe,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Bombus pascuorum,Ccarder,Common carder,W,1,Potentilla fructicosa,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Bombus pascuorum,Ccarder,Common carder,W,1,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,15/05/2021,Transect,1,2,S,16,C,14:00:00,Apis mellifera,Honey,Honey,W,1,Choisya,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Apis mellifera,Honey,Honey,W,8,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,28/05/2021,Transect,2,3,NE,21,C,14:33:00,Apis mellifera,Honey,Honey,W,1,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,08/06/2021,Transect,3,3,SW,24,S,14:06:00,Apis mellifera,Honey,Honey,W,24,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,08/06/2021,Transect,3,3,SW,24,S,14:06:00,Apis mellifera,Honey,Honey,W,39,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,09/06/2021,Transect,4,1,SW,25,S,14:23:00,Apis mellifera,Honey,Honey,W,33,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,09/06/2021,Transect,4,1,SW,25,S,14:23:00,Apis mellifera,Honey,Honey,W,7,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,09/06/2021,Transect,4,1,SW,25,S,14:23:00,Apis mellifera,Honey,Honey,W,2,Astrantia,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,40,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,5,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,1,Rose,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,1,Astilbe,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,1,Persicaria,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,26/06/2021,Transect,5,1,SW,32,S,10:12:00,Apis mellifera,Honey,Honey,W,1,Heucera,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Apis mellifera,Honey,Honey,W,32,Nepeta,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Christ,01/07/2021,Transect,6,2,SW,28,C,15:56:00,Apis mellifera,Honey,Honey,W,6,Geranium,NA,NA,NA,345,7,49.59,32.93,4.39,8707,6,0.43,11.93,19,NA
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,Y,20210527_Leon_Buff_001,5.86956836,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,4.049655305
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,N,20210527_Leon_Buff_002,4.726643357,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.345162118
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,Y,20210527_Leon_Buff_003,5.817490134,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.106032083
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,N,20210527_Leon_Buff_004,5.65193988,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.790924248
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,Y,20210527_Leon_Buff_006,5.157180495,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.146095188
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,Y,20210527_Leon_Buff_007,5.058590378,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.890148674
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_001,6.787121706,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.329616144
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_002,6.311171895,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.591370441
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_003,5.46341573,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.145386509
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,Y,20210605_LeonMRR_Buff_004,5.365990507,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,4.184784066
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_005,4.872318478,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.113086447
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_006,5.269107187,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.207787355
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_007,6.817917822,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.319093411
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_008,5.393732236,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.865555326
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_009,5.608982679,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.730844284
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_010,5.613202289,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.338854338
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_011,4.906014925,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.659043713
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_012,5.536776465,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.149398223
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_013,6.317461904,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.079571631
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,Y,20210605_LeonMRR_Buff_014,5.12715963,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.832232228
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,Y,20210605_LeonMRR_Buff_016,5.538873605,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.880198624
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_017,5.603853659,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.846800988
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_018,5.305472837,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.980203421
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,Y,20210605_LeonMRR_Buff_019,5.165680739,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.809501525
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,N,20210605_LeonMRR_Buff_020,5.635638271,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.325562059
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Phlomis russeliana,N,20210605_LeonMRR_Buff_021,7.164926305,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.342329512
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_022,5.515713275,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,4.071189065
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_023,7.352557328,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.368545045
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_024,4.248250186,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,7.912780829
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,Y,20210605_LeonMRR_Buff_025,5.489458103,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.95566164
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_026,7.006271059,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,4.587919316
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_027,5.400659505,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.927677311
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_028,5.535483387,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,1.817782693
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,M,1,Nepeta,N,20210605_LeonMRR_Buff_029,4.387394153,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.11818879
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_031,6.917782617,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,2.612009079
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Linaria purpurea,N,20210605_LeonMRR_Buff_032,5.226967891,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,4.938201178
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Centranthus ruber,N,20210605_LeonMRR_Buff_033,7.157873348,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,6.179141888
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus terrestris,Buff,Buff tail,W,2,Symphytum officinale,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum ,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,39,Symphytum ,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,12,Nepeta,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,3,Phlomis russeliana,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Salvia,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Allium schoenoprasum,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,5,Symphytum,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,10,Nepeta,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,2,Eschscholzia californica,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,2,Linaria purpurea,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,2,Centranthus ruber,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,1,Papaver,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,1,Ballota nigra,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,1,hypericum,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus terrestris,Buff,Buff tail,W,1,Alkanet,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,3,Symphytum,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,22,Papaver,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,5,Nepeta,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,1,Ballota nigra,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,1,Linaria purpurea,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Eschscholzia californica,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Phacelia,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Papaver,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centranthus ruber,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,M,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Linaria purpurea,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Malva neglecta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Centaurea cyanus,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Linaria purpurea,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Cirsium arvense,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Linaria purpurea,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum officinale,N,20210527_Leon_CC_005,5.030182387,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,3.17146674
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus pascuorum,Ccarder,Common carder,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Bombus pascuorum,Ccarder,Common carder,W,3,Ballota nigra,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus pascuorum,Ccarder,Common carder,W,1,Ballota nigra,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus pascuorum,Ccarder,Common carder,W,1,Alkanet,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Bombus pascuorum,Ccarder,Common carder,W,1,Symphytum,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Bombus terrestris,Buff,Buff tail,W,1,Nepeta,N,20210605_LeonMRR_Buff_030,5.086193956,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,5.233316609
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Apis mellifera,Honey,Honey,W,4,Alkanet,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,27/05/2021,Transect,2,4,NE,22,S,10:50:00,Apis mellifera,Honey,Honey,W,5,Symphytum officinale,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Apis mellifera,Honey,Honey,W,8,Alkanet,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Apis mellifera,Honey,Honey,W,5,Symphytum ,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Apis mellifera,Honey,Honey,W,1,Calendula officinalis,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,05/06/2021,Transect,3,3,S,25,S,14:20:00,Apis mellifera,Honey,Honey,W,1,Centranthus ruber,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Apis mellifera,Honey,Honey,W,7,Rose,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Apis mellifera,Honey,Honey,W,9,Papaver,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,25/06/2021,Transect,5,0,NA,22,S,10:25:00,Apis mellifera,Honey,Honey,W,2,Centaurea cyanus,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,2,Rose,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,1,Malva neglecta,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,1,Thyme,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,6,Centaurea cyanus,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,1,Nepeta,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,1,Cirsium arvense,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Apis mellifera,Honey,Honey,W,7,Centaurea cyanus,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus lapidarius,Red,Red tail,W,1,Nepeta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus lapidarius,Red,Red tail,W,1,Centaurea cyanus,Y,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Bombus lapidarius,Red,Red tail,M,1,Malva neglecta,N,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,22/06/2021,Transect,4,2,E,19,C,14:57:00,Solitary bee,Solitary,Solitary,NA,2,Nepeta,NA,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Solitary,Solitary,Solitary,NA,4,Nepeta,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Solitary,Solitary,Solitary,NA,1,Papaver,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+City,Leon,01/07/2021,Transect,6,1,NW,23,S,09:56:00,Solitary,Solitary,Solitary,NA,1,Ballota nigra,,NA,NA,770,1,39.03,46.53,9.84,2450,7,1.33,0,9,NA
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus terrestris,Buff,Buff tail,W,1,Symphytum officinale,Y,20210526_MEA_Buff_001,5.478462694,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,1.836702458
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus terrestris,Buff,Buff tail,W,1,Allium,N,20210526_MEA_Buff_002,4.914278545,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,1.29499396
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus terrestris,Buff,Buff tail,W,1,Allium,Y,20210526_MEA_Buff_003,4.518526105,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,6.221361775
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus terrestris,Buff,Buff tail,W,1,Teucrium fructicans,N,20210526_MEA_Buff_006,4.634958323,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.07503312
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Rose,Y,20210630_MEA_Buff_001,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Rose,Y,20210630_MEA_Buff_002,4.289339009,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,3.207211289
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Rose,Y,20210630_MEA_Buff_004,5.137409274,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.769927158
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,N,20210630_MEA_Buff_005,5.901003764,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.74952896
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_006,5.110684411,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,3.85049576
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_007,3.117053838,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,4.413403555
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_008,5.231785714,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,1.923302377
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_009,5.567691154,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.470829669
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_010,5.088753739,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,1.250593241
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,M,1,Stachys byzantina,NA,20210630_MEA_Buff_011,6.635719316,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.824360694
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_012,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,20210630_MEA_Buff_013,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,M,1,Stachys byzantina,NA,20210630_MEA_Buff_014,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus terrestris,Buff,Buff tail,W,1,Choisya,N,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,09/06/2021,Transect,3,5,SW,26,S,10:16:00,Bombus terrestris,Buff,Buff tail,W,42,Teucrium fruticans ,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,09/06/2021,Transect,3,5,SW,26,S,10:16:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,09/06/2021,Transect,3,5,SW,26,S,10:16:00,Bombus terrestris,Buff,Buff tail,W,1,Rose,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,09/06/2021,Transect,3,5,SW,26,S,10:16:00,Bombus terrestris,Buff,Buff tail,W,3,Cordyline,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus terrestris,Buff,Buff tail,W,2,Phormium,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus terrestris,Buff,Buff tail,W,13,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus terrestris,Buff,Buff tail,W,2,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus terrestris,Buff,Buff tail,W,2,Rose,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus terrestris,Buff,Buff tail,W,3,Teucrium fruticans ,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,4,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,hypericum,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Perovskia,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,3,Rose,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus terrestris,Buff,Buff tail,W,1,Stachys byzantina,N,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus terrestris,Buff,Buff tail,W,56,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus terrestris,Buff,Buff tail,W,3,Rose,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus terrestris,Buff,Buff tail,W,25,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus terrestris,Buff,Buff tail,W,1,Teucrium fruticans ,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus pascuorum,Ccarder,Common carder,W,1,Teucrium fructicans,N,20210526_MEA_CC_004,7.851237139,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,3.98980564
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus pascuorum,Ccarder,Common carder,W,1,Teucrium fructicans,N,20210526_MEA_CC_005,6.440872196,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,2.909802313
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Bombus pascuorum,Ccarder,Common carder,W,1,Teucrium fruticans ,Y,20210630_MEA_CC_003,3.411196388,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,6.555084267
+East,MEA,11/05/2021,Transect,1,6,SE,20,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,Q,1,Rosemary,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,11/05/2021,Transect,1,6,SE,20,C,11:40:00,Bombus pascuorum,Ccarder,Common carder,Q,1,Teucrium fruticans ,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Bombus pascuorum,Ccarder,Common carder,W,1,Teucrium fructicans,N,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus pascuorum,Ccarder,Common carder,W,1,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus pascuorum,Ccarder,Common carder,W,2,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus pascuorum,Ccarder,Common carder,W,1,Teucrium fruticans ,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus pascuorum,Ccarder,Common carder,W,1,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus pratorum,Early,Early,W,1,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,11/05/2021,Transect,1,6,SE,20,C,11:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,10,Teucrium fruticans ,Y,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,11/05/2021,Transect,1,6,SE,20,C,11:40:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,2,Rosemary,Y,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,26/05/2021,Transect,2,3,NE,18,C,15:15:00,Anthophora plumipes,Solitary,Hairy footed flower bee,F,5,Teucrium fructicans,N,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,09/06/2021,Transect,3,5,SW,26,S,10:16:00,Apis mellifera,Honey,Honey,W,7,Cordyline,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Apis mellifera,Honey,Honey,W,0,,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Apis mellifera,Honey,Honey,W,4,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,30/06/2021,Transect,5,3,NW,18,C,13:01:00,Apis mellifera,Honey,Honey,W,8,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Apis mellifera,Honey,Honey,W,68,Lavender,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Apis mellifera,Honey,Honey,W,8,Rose,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Apis mellifera,Honey,Honey,W,10,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Apis mellifera,Honey,Honey,W,1,Perovskia,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,17/06/2021,Transect,4,3,SW,23,C,13:46:00,Bombus lapidarius,Red,Red tail,W,1,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Bombus hypnorum,Tree,Tree,W,1,Stachys byzantina,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,MEA,07/07/2021,Transect,6,8,SW,22,C,14:36:00,Solitary,Solitary,Solitary,NA,3,Achillea millefolium,NA,NA,NA,850,1,26.97,44.9,19.29,2038,14,1.31,2.17,5,NA
+East,OPMead,26/05/2021,Transect,1,4,NE,16,C,10:30:00,Bombus terrestris,Buff,Buff tail,W,1,Iris germanica,Y,20210526_OP_Buff_001,5.92663011,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.667854752
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,Q,1,Echinacea,N,20210622_OP_Buff_001,9.726650718,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,0.988797923
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210622_OP_Buff_002,5.006691744,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.716658265
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,M,1,Valeriana officinalis,N,20210622_OP_Buff_003,5.159403934,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,4.303521026
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Valeriana officinalis,N,20210622_OP_Buff_004,4.614835076,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,1.991921272
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,M,1,Geranium,N,20210622_OP_Buff_005,3.669289044,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,4.892316428
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Scabious,N,20210622_OP_Buff_006,4.026230492,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,5.577304036
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Scabious,N,20210622_OP_Buff_007,4.528095238,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,1.329653413
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_001,5.219196767,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.72759973
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_002,6.082870765,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,1.185476863
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_003,5.284770688,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.664283594
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,M,1,Veronica spicata,N,20210629_OP_Buff_004,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_006,5.151533283,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,8.10307546
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,N,20210629_OP_Buff_007,5.617451177,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.302917058
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_008,4.451094564,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,4.421085279
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Buff_009,5.86847482,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.109477979
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210629_OP_Vestal_005,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_001,4.338540354,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.644402728
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_002,5.364276081,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,4.13916118
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_003,5.88858335,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.161457401
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_004,4.302256716,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,5.160920134
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,M,1,Veronica spicata,N,20210705_OP_Buff_005,5.60624519,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.820316944
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_006,6.189185476,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,6.414739907
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,M,1,Veronica spicata,N,20210705_OP_Buff_007,5.372620553,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.488365617
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_008,5.655115407,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.854957465
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Geranium,N,20210705_OP_Buff_009,5.347437302,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,5.026587241
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,M,1,Veronica spicata,N,20210705_OP_Buff_010,4.916697464,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.956939918
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,Q,1,Veronica spicata,N,20210705_OP_Buff_011,7.60819416,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.35947226
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_012,12.38642616,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,1.904096672
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_013,5.43714512,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.276823246
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,M,1,Veronica spicata,N,20210705_OP_Buff_014,4.305230043,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,5.521128583
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,Q,1,Veronica spicata,N,20210705_OP_Buff_015,4.375076495,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,7.62367474
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,Q,1,Veronica spicata,N,20210705_OP_Buff_016,9.051458699,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,1.996287184
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_017,3.586258369,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.83598031
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_018,4.726565217,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.619115115
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_019,4.781418972,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.919686796
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_020,4.966485888,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.91727207
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,20210705_OP_Buff_021,4.292354461,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.344239273
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_022,5.819384494,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,3.746140056
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,20210705_OP_Buff_023,4.547329471,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,2.165855336
+East,OPMead,26/05/2021,Transect,1,4,NE,16,C,10:30:00,Bombus terrestris,Buff,Buff tail,W,1,Iris germanica,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,26/05/2021,Transect,1,4,NE,16,C,10:30:00,Bombus terrestris,Buff,Buff tail,Q,1,,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,26/05/2021,Transect,1,4,NE,16,C,10:30:00,Bombus terrestris,Buff,Buff tail,W,2,Papaver orientale,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Valeriana officinalis,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Trifolium repens,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Echinacea,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Indigo,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,3,Veronica spicata,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Scabious,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,W,1,Iris germanica,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus terrestris,Buff,Buff tail,Q,1,Ground,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,2,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Bombus terrestris,Buff,Buff tail,W,1,Echinacea,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,Y,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,1,Veronica spicata,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,6,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,W,2,Echinacea,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Bombus terrestris,Buff,Buff tail,Q,1,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Bombus terrestris,Buff,Buff tail,W,12,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Bombus terrestris,Buff,Buff tail,W,1,Eupatorium,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Bombus terrestris,Buff,Buff tail,W,1,Eriocapitella hupehensis,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Bombus terrestris,Buff,Buff tail,W,1,Valeriana officinalis,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Bombus pascuorum,Ccarder,Common carder,W,1,Geranium,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Apis mellifera,Honey,Honey,W,1,Geranium,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Apis mellifera,Honey,Honey,W,3,Centaurea cyanus,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Apis mellifera,Honey,Honey,W,1,Echinacea,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Apis mellifera,Honey,Honey,W,10,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,29/06/2021,Transect,3,4,N,26,C,10:54:00,Apis mellifera,Honey,Honey,W,1,Valeriana officinalis,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Apis mellifera,Honey,Honey,W,7,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,05/07/2021,Transect,4,3,SE,23,S,10:18:00,Apis mellifera,Honey,Honey,W,1,Calendula,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Apis mellifera,Honey,Honey,W,30,Veronica spicata,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Apis mellifera,Honey,Honey,W,7,Eupatorium,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Apis mellifera,Honey,Honey,W,1,calendula,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Apis mellifera,Honey,Honey,W,2,Echinacea,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,09/07/2021,Transect,5,3,SW,26,C,09:28:00,Apis mellifera,Honey,Honey,W,1,Valeriana officinalis,NA,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Solitary,Solitary,Solitary,NA,1,Geranium,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA
+East,OPMead,22/06/2021,Transect,2,3,E,23,S,11:06:00,Solitary,Solitary,Solitary,NA,2,Scabious,N,NA,NA,530,1,24.47,41.31,18.18,2494,13,6.03,6.64,7,NA

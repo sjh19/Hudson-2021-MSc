@@ -1,0 +1,157 @@
+Site,PlantSpecies,TotalMsq,Total.Site.Msq,Freq
+Bank,Achillea millefolium,312,10042,0.031069508
+Leon,Achillea millefolium,54,14700.5,0.003673344
+MEA,Achillea millefolium,10,12228,0.000817795
+Leon,Alcea rosea,30,14700.5,0.002040747
+Bunhill,Alchemilla,312,10524.5,0.029645114
+Christ,Alchemilla,104,52240,0.001990812
+BG,Alkanet,472,36142,0.013059598
+Bunhill,Alkanet,16,10524.5,0.001520262
+Leon,Alkanet,378,14700.5,0.025713411
+Beech,Allium,24,13677,0.001754771
+BG,Allium,16,36142,0.000442698
+Bunhill,Allium,30,10524.5,0.002850492
+MEA,Allium,9,12228,0.000736016
+Beech,Allium schoenoprasum,40,13677,0.002924618
+Christ,Amsonia tabernaemontana ,60,52240,0.001148545
+BG,Anthriscus sylvestris,3114,36142,0.086160146
+Leon,Anthriscus sylvestris,300,14700.5,0.020407469
+Beech,Aquilegia,90,13677,0.00658039
+Leon,Aquilegia,3.5,14700.5,0.000238087
+Christ,Astilbe,32,52240,0.000612557
+OPMead,Astilbe,144,9974,0.014437538
+Christ,Astrantia,448,52240,0.008575804
+Leon,Ballota nigra,396,14700.5,0.026937859
+Bunhill,Bergenia,3.5,10524.5,0.000332557
+Bank,Betonica officinalis,40,10042,0.00398327
+Beech,Brunnera,40,13677,0.002924618
+Beech,Calamint,55,13677,0.00402135
+Bank,Calendula,672,10042,0.06691894
+Leon,Calendula,656,14700.5,0.044624333
+OPMead,Calendula,375,9974,0.037597754
+BG,Camassia,1983,36142,0.054866914
+MEA,Camassia,87,12228,0.007114818
+Bunhill,Campanula,5280,10524.5,0.501686541
+Bunhill,Campanula trachelium,15,10524.5,0.001425246
+Bunhill,Ceanothus,10,10524.5,0.000950164
+Leon,Centaurea cyanus,1280,14700.5,0.087071868
+Leon,Centranthus ruber,276,14700.5,0.018774872
+Bunhill,Chelidonium majus,406,10524.5,0.038576654
+Bunhill,Choisya,1125,10524.5,0.106893439
+Christ,Choisya,24000,52240,0.45941807
+MEA,Choisya,160,12228,0.013084724
+MEA,Cichorium intybus,11,12228,0.000899575
+Leon,Cirsium arvense,12,14700.5,0.000816299
+MEA,Cordyline,212,12228,0.017337259
+Bank,Coreopsis,1950,10042,0.194184425
+Beech,Dianthus,30,13677,0.002193463
+OPMead,Echinacea,780,9974,0.078203329
+Bank,Echium vulgare,42,10042,0.004182434
+OPMead,Eriocapitella hupehensis,3,9974,0.000300782
+Bank,Eschscholzia californica,2140,10042,0.213104959
+Leon,Eschscholzia californica,304,14700.5,0.020679569
+OPMead,Eupatorium,400,9974,0.040104271
+Beech,Euphorbia,1120,13677,0.081889303
+Bunhill,Euphorbia,64,10524.5,0.006081049
+Leon,Euphorbia,420,14700.5,0.028570457
+MEA,Euphorbia,1248,12228,0.102060844
+Beech,Euphorbia,10,13677,0.000731154
+BG,Filipendula ulmaria,32,36142,0.000885396
+Leon,Fruit trees,80,14700.5,0.005441992
+MEA,Fuchsia,519,12228,0.042443572
+Beech,Geranium,484,13677,0.035387877
+BG,Geranium,6,36142,0.000166012
+Bunhill,Geranium,1368,10524.5,0.129982422
+Christ,Geranium,5880,52240,0.112557427
+MEA,Geranium,108,12228,0.008832188
+OPMead,Geranium,696,9974,0.069781432
+Bank,Geranium dissectum,280,10042,0.027882892
+Bank,Hawkbit,400,10042,0.039832703
+Beech,Heuchera,10,13677,0.000731154
+Bunhill,Heuchera,328,10524.5,0.031165376
+Christ,Heuchera,56,52240,0.001071975
+Bunhill,Hydrangea petiolaris,63,10524.5,0.005986033
+Beech,Hypericum,160,13677,0.011698472
+Leon,Hypericum,80,14700.5,0.005441992
+MEA,Hypericum,240,12228,0.019627085
+OPMead,Indigo,4480,9974,0.449167836
+Bunhill,Iris germanica,4,10524.5,0.000380066
+Christ,Iris germanica,144,52240,0.002756508
+OPMead,Iris germanica,50,9974,0.005013034
+Beech,Kniphofia ,10,13677,0.000731154
+Bunhill,Lamium album,165,10524.5,0.015677704
+BG,Lamium orvala,155,36142,0.004288639
+Bunhill,Lamium purpurea,462,10524.5,0.043897572
+BG,Lavender,29800,36142,0.824525483
+MEA,Lavender,5400,12228,0.441609421
+Bank,Leontodon,2600,10042,0.258912567
+Bank,Leucanthemum vulgare,310,10042,0.030870345
+BG,Leucanthemum vulgare,180,36142,0.004980355
+Leon,Leucanthemum vulgare,1080,14700.5,0.073466889
+Beech,Libertia grandiflora,240,13677,0.017547708
+Bunhill,Ligularia,30,10524.5,0.002850492
+Leon,Lilac,18,14700.5,0.001224448
+Leon,Linaria purpurea,78,14700.5,0.005305942
+Leon,Lunaria annua,62,14700.5,0.004217544
+Beech,Luzula nivea,40,13677,0.002924618
+Bunhill,Luzula nivea,72,10524.5,0.00684118
+Beech,Lychnis chalcedonica,12,13677,0.000877385
+BG,Lythrum salicaria,2,36142,5.53E-05
+Bunhill,Mahonia,48,10524.5,0.004560787
+Bunhill,Malva moschata,10,10524.5,0.000950164
+Leon,Malva neglecta,20,14700.5,0.001360498
+Bank,Malva sylvestris,1152,10042,0.114718184
+Beech,Nepeta,750,13677,0.054836587
+Christ,Nepeta,2704,52240,0.051761103
+Leon,Nepeta,1000,14700.5,0.068024897
+BG,Origanum,16,36142,0.000442698
+Bunhill,Papaver,3,10524.5,0.000285049
+Leon,Papaver,207,14700.5,0.014081154
+OPMead,Papaver,6,9974,0.000601564
+Christ,Penstemon,40,52240,0.000765697
+MEA,Perovskia,64,12228,0.005233889
+BG,Persicaria,120,36142,0.003320237
+Christ,Persicaria,772,52240,0.014777948
+Leon,Phacelia,88,14700.5,0.005986191
+Beech,Philadelphus,790,13677,0.057761205
+Beech,Phlomis russeliana,15,13677,0.001096732
+Leon,Phlomis russeliana,678,14700.5,0.04612088
+MEA,Phormium,20,12228,0.00163559
+Bunhill,Photinia,16,10524.5,0.001520262
+Beech,Potentilla fructicosa,300,13677,0.021934635
+Christ,Potentilla fructicosa,3160,52240,0.060490046
+Bunhill,Pyracantha,400,10524.5,0.038006556
+Bunhill,Rose,234,10524.5,0.022233835
+Christ,Rose,1440,52240,0.027565084
+Leon,Rose,1600,14700.5,0.108839835
+MEA,Rose,140,12228,0.011449133
+Beech,Salvia,144,13677,0.010528625
+BG,Salvia,18,36142,0.000498036
+Leon,Salvia,256,14700.5,0.017414374
+MEA,Salvia rosmarinus,240,12228,0.019627085
+Beech,Sambucus,4,13677,0.000292462
+Beech,Scabious,30,13677,0.002193463
+OPMead,Scabious,80,9974,0.008020854
+Bunhill,Silene dioica,60,10524.5,0.005700983
+Beech,Sisyrinchium striatum,33,13677,0.00241281
+MEA,Stachys byzantina,869,12228,0.071066405
+BG,Symphytum,125,36142,0.00345858
+Leon,Symphytum,468,14700.5,0.031835652
+MEA,Symphytum,73,12228,0.005969905
+Leon,Symphytum ,1116,14700.5,0.075915785
+MEA,Teucrium fruticans ,2808,12228,0.229636899
+OPMead,Thalictrum,836,9974,0.083817927
+Beech,Thymus,9166,13677,0.670176208
+Christ,Thymus,3800,52240,0.072741194
+Leon,Thymus,160,14700.5,0.010883984
+Christ,Trachelospermum jasminoides,9600,52240,0.183767228
+Bank,Trifolium pratense,144,10042,0.014339773
+OPMead,Trifolium repens,874,9974,0.087627832
+BG,Umbellifera,54,36142,0.001494107
+MEA,Valeriana officinalis,10,12228,0.000817795
+OPMead,Valeriana officinalis,294,9974,0.029476639
+Beech,veronica spicata,80,13677,0.005849236
+BG,veronica spicata,9,36142,0.000249018
+OPMead,veronica spicata,956,9974,0.095849208
+BG,Viburnum lantana,40,36142,0.001106746
+Leon,Viola tricolor,3600,14700.5,0.24488963
